@@ -181,7 +181,7 @@ namespace Practice_WebAPICRUD.Services
             }
             catch (Exception err)
             {
-                throw new Exception("Incorrect StudentID", err);
+                throw new Exception("Incorrect StudentID :", err);
             }
         }
     }
