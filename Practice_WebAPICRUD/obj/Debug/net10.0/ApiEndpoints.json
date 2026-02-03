@@ -1,0 +1,103 @@
+[
+  {
+    "ContainingType": "Practice_WebAPICRUD.Controllers.StudentController",
+    "Method": "GetStudentById",
+    "RelativePath": "api/Student/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practice_WebAPICRUD.Controllers.StudentController",
+    "Method": "CreateStudent",
+    "RelativePath": "api/Student/Create_Student",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "std",
+        "Type": "Practice_WebAPICRUD.Data.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practice_WebAPICRUD.Controllers.StudentController",
+    "Method": "DeleteStudent",
+    "RelativePath": "api/Student/Delete_Student",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practice_WebAPICRUD.Controllers.StudentController",
+    "Method": "GetStudentByPage",
+    "RelativePath": "api/Student/GetByPage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practice_WebAPICRUD.Controllers.StudentController",
+    "Method": "SearchStudent",
+    "RelativePath": "api/Student/Search",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Practice_WebAPICRUD.Models.RequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practice_WebAPICRUD.Controllers.StudentController",
+    "Method": "UpdateStudent",
+    "RelativePath": "api/Student/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Practice_WebAPICRUD.Models.StudentUpdate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
