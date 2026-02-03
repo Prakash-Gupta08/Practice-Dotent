@@ -107,10 +107,10 @@ namespace Practice_WebAPICRUD.Controllers
             var data =await _context.DeleteStudent(id);
             if(!data)
             {
-                return NotFound("Student not matched");
+                return NotFound("Student not matched please enter the right informaton:");
             }
-            return Ok("Student deleted");
+            return Ok("Student deleted: now !");
         }
-
+      
     }
 }

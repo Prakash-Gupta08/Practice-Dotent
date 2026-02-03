@@ -160,3 +160,4 @@ C:\Users\rvedg\source\repos\Practice_WebAPICRUD\Practice_WebAPICRUD\obj\Debug\ne
 C:\Users\rvedg\source\repos\Practice_WebAPICRUD\Practice_WebAPICRUD\obj\Debug\net10.0\Practice_WebAPICRUD.pdb
 C:\Users\rvedg\source\repos\Practice_WebAPICRUD\Practice_WebAPICRUD\obj\Debug\net10.0\Practice_WebAPICRUD.genruntimeconfig.cache
 C:\Users\rvedg\source\repos\Practice_WebAPICRUD\Practice_WebAPICRUD\obj\Debug\net10.0\ref\Practice_WebAPICRUD.dll
+C:\Users\rvedg\source\repos\Practice_WebAPICRUD\Practice_WebAPICRUD\obj\Debug\net10.0\Practice_WebAPICRUD.sourcelink.json
