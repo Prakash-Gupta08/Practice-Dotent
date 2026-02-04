@@ -26,6 +26,7 @@ namespace Practice_WebAPICRUD.Controllers
             {
                 var res = await _context.GetStudentById(id);
                 if (res == null)
+                if (res == null)
                 {
                     return BadRequest();
                 }

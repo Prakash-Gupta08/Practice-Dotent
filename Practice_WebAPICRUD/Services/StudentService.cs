@@ -164,7 +164,7 @@ namespace Practice_WebAPICRUD.Services
             }
             catch(Exception err)
             {
-                throw new Exception("Student not found", err);
+                throw new Exception("Student not found, please correct this", err);
 
             }
 
