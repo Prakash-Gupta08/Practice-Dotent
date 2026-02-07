@@ -3570,23 +3570,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rvedg\\.nuget\\packages\\": {},
+    "C:\\Users\\Skylabs\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rvedg\\source\\repos\\Practice_WebAPICRUD\\Practice_WebAPICRUD\\Practice_WebAPICRUD.csproj",
+      "projectUniqueName": "C:\\Users\\Skylabs\\Desktop\\test\\Practice-Dotent\\Practice_WebAPICRUD\\Practice_WebAPICRUD.csproj",
       "projectName": "Practice_WebAPICRUD",
-      "projectPath": "C:\\Users\\rvedg\\source\\repos\\Practice_WebAPICRUD\\Practice_WebAPICRUD\\Practice_WebAPICRUD.csproj",
-      "packagesPath": "C:\\Users\\rvedg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rvedg\\source\\repos\\Practice_WebAPICRUD\\Practice_WebAPICRUD\\obj\\",
+      "projectPath": "C:\\Users\\Skylabs\\Desktop\\test\\Practice-Dotent\\Practice_WebAPICRUD\\Practice_WebAPICRUD.csproj",
+      "packagesPath": "C:\\Users\\Skylabs\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Skylabs\\Desktop\\test\\Practice-Dotent\\Practice_WebAPICRUD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\rvedg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Skylabs\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
